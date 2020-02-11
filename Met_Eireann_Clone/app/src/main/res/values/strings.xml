@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Met_Eireann_Clone</string>
+
+    <string-array name="area_array">
+        <item>Select All Countries</item>
+        <item>Carlow</item>
+        <item>Cavan</item>
+        <item>Clare</item>
+        <item>Cork</item>
+        <item>Donegal</item>
+        <item>Dublin</item>
+        <item>Galway</item>
+    </string-array>
+
+    <string-array name="level_array">
+        <item>All Level</item>
+        <item>Yellow Level</item>
+        <item>Red Level</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>All</item>
+        <item>Rain</item>
+        <item>Wind</item>
+        <item>Fog</item>
+    </string-array>
+</resources>
